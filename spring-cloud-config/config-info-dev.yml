@@ -1,0 +1,5 @@
+cn:
+    springcloud:
+        psh:
+            config: i am the git configuration file from dev environment
+            
