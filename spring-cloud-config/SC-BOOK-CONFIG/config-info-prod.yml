@@ -1,5 +1,4 @@
 cn:
     springcloud:
-        psh:
-            config: i am the git configuration file from prod environment
+        psh: i am the git configuration file from prod environment
             
